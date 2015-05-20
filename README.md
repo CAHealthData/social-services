@@ -1,6 +1,6 @@
 # Crowdsourcing Data about Social Services in California
 
-The purpose of this repository is to gather feedback from stakeholders about the feasibility of developing a platform to crowdsource statewide data regarding the availability of social services in local communities. We invite any and all interested parties to share their thoughts using [GitHub Issues](https://github.com/code4sac/social-services/issues) or by sending an email to [health@codeforsacramento.org](health@codeforsacramento.org?subject=Crowdsourcing Social Services Data). 
+The purpose of this repository is to gather feedback from stakeholders about the feasibility of developing a platform to crowdsource statewide data regarding the availability of social services in local communities. We invite any and all interested parties to share their thoughts using [GitHub Issues](https://github.com/code4sac/social-services/issues) or by sending an email to [health@codeforsacramento.org](mailto:health@codeforsacramento.org?subject=Crowdsourcing Social Services Data). 
 
 ## BACKGROUND
 The California HealthCare Foundation (CHCF) launched the California Health Data Project in March 2015 — a pilot program to encourage local communities statewide to use open health data from the California Health and Human Services Agency (CHHS) in tangible and relevant ways. There are three pilot projects running in Sacramento, Fresno, and Los Angeles.
@@ -58,7 +58,7 @@ There are many technical issues that need to be resolved prior to deployment of 
 - Making the information available as quickly as possible is more important than conforming to a particular data standard.
 - If the project is successful, we can engage stakeholders in the future to conform the solution to a particular data standard.
 
-If you would like to provide feedback on this conceptual proposal to crowdsource social services data, please [create an issue on GitHub](https://github.com/code4sac/social-services/issues) or send us an email at [health@codeforsacramento.org](health@codeforsacramento.org?subject=Crowdsourcing Social Services Data). 
+If you would like to provide feedback on this conceptual proposal to crowdsource social services data, please [create an issue on GitHub](https://github.com/code4sac/social-services/issues) or send us an email at [health@codeforsacramento.org](mailto:health@codeforsacramento.org?subject=Crowdsourcing Social Services Data). 
 
 
 
